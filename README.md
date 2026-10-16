@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Dhia Eddine Sahhar
 
-<!--
-**dhia13/dhia13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Product Engineer based in Algiers, Algeria, with 5 years of experience building web, mobile and desktop products from scratch. Open to remote roles.
 
-Here are some ideas to get you started:
+## What I build with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** TypeScript, JavaScript, Python
+- **Backend:** NestJS, Node.js, PostgreSQL / PostGIS, Redis, BullMQ, Meilisearch
+- **Web:** Next.js, React
+- **Mobile and desktop:** React Native, Expo, Electron, Tauri
+
+## Things I've shipped
+
+- [Immorio](https://immorio.online): real-estate marketplace for Algeria, in French, Arabic and English
+- [Bistro](https://bistrodz.com): restaurant management and POS system
+- [Live-translation](https://github.com/dhia13/Live-translation): real-time speech transcription, translation and voice, fully offline
+
+## Find me
+
+- Portfolio: [sizar13.vercel.app](https://sizar13.vercel.app)
+- LinkedIn: [linkedin.com/in/sahhar-dhia](https://www.linkedin.com/in/sahhar-dhia/)
